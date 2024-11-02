@@ -1,1 +1,2 @@
-# deutsche-iptv-playlist
+# Deutsche iptv playlist 📺🌐
+Öffentlich verfügbarer Sender
