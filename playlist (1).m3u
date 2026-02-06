@@ -1,0 +1,156 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3sat.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png" group-title="General",3sat HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+#EXTINF:-1 tvg-id="3sat.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png" group-title="General",3sat (720p)
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png" group-title="Education",ARD-alpha (720p)
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png" group-title="Education",ARD-alpha HD
+https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
+#EXTINF:-1 tvg-id="arte.de@SD" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="Entertainment",ARTE (720p)
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 tvg-id="arte.de@HD" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="Entertainment",arte HD
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="BRFernsehen.de@Sud" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/512px-Logo_Bayerischer_Rundfunk_2024.svg.png" group-title="",BR Fernsehen Sud (1080p)
+https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
+#EXTINF:-1 tvg-id="BRFernsehen.de@Nord" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/512px-Logo_Bayerischer_Rundfunk_2024.svg.png" group-title="",BR Fernsehen Nord (720p)
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
+#EXTINF:-1 tvg-id="DasErste.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png" group-title="General",Das Erste HD (1080p)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="DasErste.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png" group-title="General",Das Erste (1080p)
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 tvg-id="DeluxeDance.de@SD" tvg-logo="https://i.imgur.com/Qu7t15Y.png" group-title="Music",Deluxe Dance (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeLounge.de@SD" tvg-logo="https://i.imgur.com/pgCA35z.png" group-title="Music",Deluxe Lounge (720p)
+https://jmp2.uk/stvp-CHAJ0500413A
+#EXTINF:-1 tvg-id="DeluxeMusic.de@SD" tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="Music",Deluxe Music (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeRap.de@SD" tvg-logo="https://i.imgur.com/s3h67hx.png" group-title="Music",Deluxe Rap (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.de@SD" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",Disney Channel (576p)
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-id="DW.de@Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Arabic (1080p)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Espanol (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 tvg-id="DW.de@Russian" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Russian (1080p)
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1 tvg-id="hrfernsehen.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/512px-HR-Fernsehen_Logo_2023.svg.png" group-title="General",hr-fernsehen (1080p)
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-id="hrfernsehen.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/512px-HR-Fernsehen_Logo_2023.svg.png" group-title="General",hr-fernsehen HD
+https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="kabeleins.de@SD" tvg-logo="https://i.imgur.com/6pulSHZ.png" group-title="Entertainment",kabel eins
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="KiKA.de@SD" tvg-logo="https://i.imgur.com/vZdNp5S.png" group-title="Kids",KiKA (1080p)
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-id="KiKA.de@HD" tvg-logo="https://i.imgur.com/vZdNp5S.png" group-title="Kids",KiKA HD
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Lausitzwelle.de@SD" tvg-logo="https://i.imgur.com/4kYF4bK.png" group-title="Music",Lausitzwelle (1080p)
+https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="MagentaMusik360.de@SD" tvg-logo="https://i.imgur.com/R74gG7U.png" group-title="Music",Magenta Musik 360 (1080p)
+https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
+#EXTINF:-1 tvg-id="MDRFernsehen.de@SachsenAnhalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/512px-MDR_Logo_2017.svg.png" group-title="General",MDR Fernsehen Sachsen-Anhalt (1080p)
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
+#EXTINF:-1 tvg-id="MDRFernsehen.de@Sachsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/512px-MDR_Logo_2017.svg.png" group-title="General",MDR Fernsehen Sachsen (1080p)
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
+#EXTINF:-1 tvg-id="MDRFernsehen.de@Thuringen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/512px-MDR_Logo_2017.svg.png" group-title="General",MDR Fernsehen Thüringen (1080p)
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
+#EXTINF:-1 tvg-id="N24Doku.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/512px-N24Doku.svg.png" group-title="Documentary",N24 Doku
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b55-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39199e43-689e-4f83-9f74-b89605373bf0
+#EXTINF:-1 tvg-id="NDRFernsehen.de@Hamburg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="General",NDR Hamburg (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehen.de@MecklenburgVorpommern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="General",NDR Mecklenburg-Vorpommern (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehen.de@Niedersachsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="General",NDR Niedersachsen (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehen.de@SchleswigHolstein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="General",NDR Schleswig-Holstein (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1 tvg-id="NickComedyCentralPlus1.de@HD" tvg-logo="https://i.imgur.com/08ZUI9k.png" group-title="Comedy;Kids",Nick/Comedy Central +1 HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.de@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nick Germany (1080p)
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+#EXTINF:-1 tvg-id="Nitro.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/512px-Nitro_Logo.svg.png" group-title="Entertainment",Nitro HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
+#EXTINF:-1 tvg-id="ntv.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/512px-N-tv_logo-september2017.svg.png" group-title="General",n-tv (1080p)
+https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
+#EXTINF:-1 tvg-id="One.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/512px-One_2022.svg.png" group-title="Entertainment",One HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
+#EXTINF:-1 tvg-id="phoenix.de@HD" tvg-logo="https://i.imgur.com/T1532t9.png" group-title="",Phoenix (720p)
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ProSieben.de@SD" tvg-logo="https://i.imgur.com/zZOk3nh.png" group-title="",ProSieben (1080p)
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/512px-ProSieben_MAXX_Logo.svg.png" group-title="",ProSieben Maxx (576p)
+http://79.232.88.203:9981/stream/channelid/1038721938
+#EXTINF:-1 tvg-id="RadioBremenFernsehen.de@SD" tvg-logo="https://i.imgur.com/wsTOcuX.png" group-title="",Radio Bremen Fernsehen (1080p)
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 tvg-id="rbbFernsehen.de@Berlin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/512px-Rbb_Fernsehen_Logo_2017.08.svg.png" group-title="",RBB Berlin (1080p)
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
+#EXTINF:-1 tvg-id="rbbFernsehen.de@Brandenburg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/512px-Rbb_Fernsehen_Logo_2017.08.svg.png" group-title="",RBB Brandenburg (1080p)
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+#EXTINF:-1 tvg-id="rbbFernsehen.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/512px-Rbb_Fernsehen_Logo_2017.08.svg.png" group-title="",rbb Fernsehen
+https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL.de@HD" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="",RTL HD
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
+#EXTINF:-1 tvg-id="RTL.de@SD" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="",RTL
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+#EXTINF:-1 tvg-id="RTLSuper.de@HD" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="" referrer="https://www.2ix2.com/super-rtl-live/",Super RTL HD (720p)
+#EXTVLCOPT:http-referrer=https://www.2ix2.com/super-rtl-live/
+https://forsizero.github.io/iptv/m3u/superrtlhd.m3u
+#EXTINF:-1 tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="",RTL Super
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
+#EXTINF:-1 tvg-id="RTLZwei.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="",RTL Zwei HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenDresden.de@SD" tvg-logo="https://i.imgur.com/rnvprGj.png" group-title="",Dresden Fernsehen (1080p)
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Seenluft24.de@SD" tvg-logo="https://i.imgur.com/3TgBg9v.jpg" group-title="",Seenluft24 (1080p)
+https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="sixx.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/512px-Sixx_Logo.svg.png" group-title="",sixx
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="SRFernsehen.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/512px-SR_Fernsehen_Logo_2023.svg.png" group-title="",SR Fernsehen (720p)
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 tvg-id="SWRFernsehenBadenWurttemberg.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/512px-SWR_Logo_2023.svg.png" group-title="",SWR Fernsehen Baden-Württemberg (720p)
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de@SD" tvg-logo="https://i.imgur.com/LH0Gctv.png" group-title="",Tagesschau 24 (720p)
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="VOX.de@SD" tvg-logo="https://i.imgur.com/QPcmfZb.png" group-title="",VOX (576p)
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Koln" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="General",WDR Fernsehen (1080p)
+https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Aachen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="General",WDR Fernsehen Aachen (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Siegen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="General",WDR Fernsehen Siegen (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Bonn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="General",WDR Fernsehen Bonn (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Dortmund" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="General",WDR Fernsehen Dortmund (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Dusseldorf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="General",WDR Fernsehen Düsseldorf (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Duisburg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="General",WDR Fernsehen Duisburg (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Munster" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="General",WDR Fernsehen Münster (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Bielefeld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="General",WDR Fernsehen Bielefeld (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Essen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="General",WDR Fernsehen Essen (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Wuppertal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="General",WDR Fernsehen Wuppertal (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
+#EXTINF:-1 tvg-id="WELT.de@SD" tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="News",WELT (1080p)
+https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
+#EXTINF:-1 tvg-id="ZDF.de@HD" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="",ZDF HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
+#EXTINF:-1 tvg-id="ZDF.de@SD" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="",ZDF (720p)
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de@HD" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="",ZDFinfo HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
+#EXTINF:-1 tvg-id="ZDFinfo.de@SD" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="",ZDFinfo (720p)
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de@HD" tvg-logo="https://i.imgur.com/1JIIGgL.png" group-title="",ZDFneo HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
+#EXTINF:-1 tvg-id="ZDFneo.de@SD" tvg-logo="https://i.imgur.com/1JIIGgL.png" group-title="",ZDFneo (720p)
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
